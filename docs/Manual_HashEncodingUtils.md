@@ -8,7 +8,7 @@ Module to work with hashing, encoding, and UUID generation
 
 *Read this in other languages: [English](Manual_HashEncodingUtils.md), [Português](Manual_HashEncodingUtils.pr.md), [Español](Manual_HashEncodingUtils.es.md)*
 
-![banner](imgs/Banner_HashEncodingUtils.png o jpg)
+![banner](imgs/Banner_HashEncodingUtils.jpg)
 ## How to install this module
 
 To install the module in Rocketbot Studio, it can be done in two ways:

@@ -8,7 +8,7 @@ Módulo para trabalhar com hashes, codificação de texto e geração de UUID
 
 *Read this in other languages: [English](Manual_HashEncodingUtils.md), [Português](Manual_HashEncodingUtils.pr.md), [Español](Manual_HashEncodingUtils.es.md)*
 
-![banner](imgs/Banner_HashEncodingUtils.png o jpg)
+![banner](imgs/Banner_HashEncodingUtils.jpg)
 ## Como instalar este módulo
 
 Para instalar o módulo no Rocketbot Studio, pode ser feito de duas formas:
